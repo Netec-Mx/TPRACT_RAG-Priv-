@@ -1,24 +1,22 @@
 # Taller Práctico Generación Aumentada de Recuperación (RAG)
 
-Los participantes desarrollarán un sistema RAG orientado a la auditoría documental. El sistema analizará versiones sintéticas de políticas, procedimientos y manuales para detectar contradicciones, requisitos desactualizados, información duplicada y diferencias entre documentos.
+Este taller práctico aplica los conceptos de **LLM y generación de texto** y **Sistemas RAG en producción** mediante una auditoría de consistencia documental. Los participantes analizarán un expediente de políticas, procedimientos y manuales para recuperar evidencia relevante, comparar requisitos, revisar versiones y elaborar hallazgos con referencias verificables.
 
-La práctica no consiste en crear otro asistente de preguntas y respuestas. Su propósito es utilizar recuperación híbrida, generación fundamentada y evaluación para producir un reporte de hallazgos con trazabilidad hacia los fragmentos que sustentan cada observación
+En Visual Studio Code trabajarán con un notebook Jupyter que utiliza **BM25 + LSA** para recuperar fragmentos y preparar contextos fundamentados. Durante la práctica evaluarán las citas, la cobertura de evidencia, la vigencia documental, la latencia y aspectos de seguridad. Utilizarán **Microsoft 365 Copilot Chat Básico** para contrastar manualmente respuestas a partir de los fragmentos seleccionados y finalizarán con un **dictamen de auditoría trazable**.
 
 ## Estructura
 
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
+- `Capitulo01/README.md`: guía práctica del capítulo, con los retos y sus tiempos.
+- `Capitulo01/materiales/`: notebook, código Python, documentos y archivos de apoyo para la auditoría.
+- `preparacion_entorno.md`: requisitos y preparación de Python, Visual Studio Code y Jupyter.
 
 ## Lista de laboratorios
 
 ### Capítulo 1
 
-- [Construcción de un auditor RAG para detectar inconsistencias entre documentos](Capitulo01/README.md#construcción-de-un-auditor-rag-para-detectar-inconsistencias-entre-documentos)
-  - Descripción: Evaluar de forma guiada un sistema RAG para comparar documentos, detectar posibles inconsistencias y generar hallazgos sustentados en las fuentes recuperadas.
-
-Los participantes trabajarán en Visual Studio Code con un notebook de Jupyter previamente preparado y documentos sintéticos. A partir de diferentes preguntas, ejecutarán un proceso de recuperación que identificará automáticamente los fragmentos más relevantes de los documentos. El notebook generará un bloque de contexto listo para copiar y pegar en Copilot Chat Standard junto con la pregunta y las instrucciones proporcionadas.
-
-Los participantes utilizarán ese contexto para generar respuestas, comparar información entre documentos e identificar posibles inconsistencias. Durante el ejercicio modificarán instrucciones sencillas del prompt para mejorar la respuesta y probarán casos donde la información sea contradictoria, incompleta o no se encuentre disponible, verificando que los hallazgos estén respaldados por las fuentes proporcionadas.
-  - Duración estimada: 105 min
+- [Auditoría de consistencia y trazabilidad documental mediante RAG](Capitulo01/README.md#auditoría-de-consistencia-y-trazabilidad-documental-mediante-rag)
+  - **Descripción:** Desarrollar una auditoría guiada sobre ocho documentos de operaciones digitales y siete casos de revisión. El participante recuperará fragmentos relevantes, comprobará posibles contradicciones, coincidencias y desactualizaciones, preparará prompts aumentados para su contraste en Copilot Chat Básico y evaluará la fundamentación de afirmaciones y citas. También experimentará con reconsultas, métricas de recuperación, observabilidad y seguridad. El notebook registrará las evidencias y generará un dictamen documentado para revisión humana.
+  - **Duración estimada:** 105 min.
 
 ## Flujo de colaboración
 

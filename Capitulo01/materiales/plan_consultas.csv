@@ -1,0 +1,21 @@
+﻿caso_id,subconsulta,pregunta_busqueda
+A01,estandar,¿Cuál es el requisito del estándar técnico para cierre de sesiones privilegiadas tras inactividad?
+A01,manual,¿Qué configuración de inactividad describe el manual operativo para la consola de administración?
+A02,autenticacion,¿Qué exige la política de control de accesos para segundo factor en cuentas privilegiadas de emergencia?
+A02,excepciones,¿Qué autorización documentada previa exige la política de control de accesos para una excepción?
+A02,contingencia,¿Qué indica el manual operativo sobre uso de cuenta de contingencia y aviso al responsable de turno?
+A03,historica,¿Qué se indica en la guía de escalamiento versión 1.8 para incidentes críticos y fin de vigencia?
+A03,vigente,¿Qué indica la guía de escalamiento versión 2.0 para incidentes críticos y desde cuándo sustituye a la anterior?
+A04,procedimiento,¿Cuál es el plazo para escalar un incidente crítico al equipo especializado en el procedimiento de incidentes?
+A04,guia,¿Cuál es el plazo para notificar al equipo especializado en la guía de escalamiento vigente?
+A05,registro,¿Qué datos de aprobación figuran en el registro de excepciones de la solicitud EXC-227?
+A05,politica,¿Qué requisito de autorización documentada exige la política para excepciones de autenticación?
+A06,anexo,¿Qué texto aparece en el anexo de automatización de la nota técnica de transferencia operativa?
+A06,gestion,¿Cómo deben tratarse las anotaciones técnicas del anexo según la sección de gestión documental?
+A06,estandar,¿Qué dispone el estándar técnico sobre duración por inactividad de sesiones privilegiadas?
+A07,sesiones_estandar,Requisito del estandar tecnico de sesiones privilegiadas finaliza por inactividad.
+A07,sesiones_manual,Configuracion del manual operativo consola operativa sesion inactividad.
+A07,vigencia,¿Qué versión de la guía de escalamiento aplica desde septiembre de 2026 y cuál quedó reemplazada?
+A07,excepciones,¿Qué puede concluirse acerca de la autorización de EXC-227 según el registro y la política?
+A07,procedimiento,Procedimiento atencion incidentes canales digitales tiempo escalamiento al grupo de respuesta especializado.
+A07,escalamiento,¿En qué coinciden el procedimiento y la guía vigente sobre incidentes críticos?
