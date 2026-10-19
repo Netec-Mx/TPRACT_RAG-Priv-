@@ -21,30 +21,30 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ---
 
-- 📁 **Materiales**: 
+### 📁 **Materiales**: 
 
-## Archivos de trabajo y apoyo
+### Archivos de trabajo y apoyo
 
-- [01_auditoria_rag_produccion.ipynb](Capitulo01/materiales/01_auditoria_rag_produccion.ipynb)
-- [anexo_parametros_sesion.csv](Capitulo01/materiales/anexo_parametros_sesion.csv)
-- [casos_auditoria.csv](Capitulo01/materiales/casos_auditoria.csv)
-- [catalogo_documental.csv](Capitulo01/materiales/catalogo_documental.csv)
-- [manifiesto_materiales.json](Capitulo01/materiales/manifiesto_materiales.json)
-- [motor_rag.py](Capitulo01/materiales/motor_rag.py)
-- [plan_consultas.csv](Capitulo01/materiales/plan_consultas.csv)
-- [requirements.txt](Capitulo01/materiales/requirements.txt)
-- [respuestas_de_contraste.jsonl](Capitulo01/materiales/respuestas_de_contraste.jsonl)
+### [01_auditoria_rag_produccion.ipynb](Capitulo01/materiales/01_auditoria_rag_produccion.ipynb)
+### [anexo_parametros_sesion.csv](Capitulo01/materiales/anexo_parametros_sesion.csv)
+### [casos_auditoria.csv](Capitulo01/materiales/casos_auditoria.csv)
+### [catalogo_documental.csv](Capitulo01/materiales/catalogo_documental.csv)
+### [manifiesto_materiales.json](Capitulo01/materiales/manifiesto_materiales.json)
+### [motor_rag.py](Capitulo01/materiales/motor_rag.py)
+### [plan_consultas.csv](Capitulo01/materiales/plan_consultas.csv)
+### [requirements.txt](Capitulo01/materiales/requirements.txt)
+### [respuestas_de_contraste.jsonl](Capitulo01/materiales/respuestas_de_contraste.jsonl)
 
-## Documentos del expediente
+### Documentos del expediente
 
-- [EST-SEG-009_v2.1.md](Capitulo01/materiales/documentos/EST-SEG-009_v2.1.md)
-- [GUI-INC-004_v1.8.md](Capitulo01/materiales/documentos/GUI-INC-004_v1.8.md)
-- [GUI-INC-004_v2.0.md](Capitulo01/materiales/documentos/GUI-INC-004_v2.0.md)
-- [MAN-OPS-011_v2.3.md](Capitulo01/materiales/documentos/MAN-OPS-011_v2.3.md)
-- [NOT-OPS-018_v1.1.md](Capitulo01/materiales/documentos/NOT-OPS-018_v1.1.md)
-- [POL-SEG-014_v3.2.md](Capitulo01/materiales/documentos/POL-SEG-014_v3.2.md)
-- [PRC-INC-005_v3.1.md](Capitulo01/materiales/documentos/PRC-INC-005_v3.1.md)
-- [REG-EXC-006_v1.0.md](Capitulo01/materiales/documentos/REG-EXC-006_v1.0.md)
+### [EST-SEG-009_v2.1.md](Capitulo01/materiales/documentos/EST-SEG-009_v2.1.md)
+### [GUI-INC-004_v1.8.md](Capitulo01/materiales/documentos/GUI-INC-004_v1.8.md)
+### [GUI-INC-004_v2.0.md](Capitulo01/materiales/documentos/GUI-INC-004_v2.0.md)
+### [MAN-OPS-011_v2.3.md](Capitulo01/materiales/documentos/MAN-OPS-011_v2.3.md)
+### [NOT-OPS-018_v1.1.md](Capitulo01/materiales/documentos/NOT-OPS-018_v1.1.md)
+### [POL-SEG-014_v3.2.md](Capitulo01/materiales/documentos/POL-SEG-014_v3.2.md)
+### [PRC-INC-005_v3.1.md](Capitulo01/materiales/documentos/PRC-INC-005_v3.1.md)
+### [REG-EXC-006_v1.0.md](Capitulo01/materiales/documentos/REG-EXC-006_v1.0.md)
 
 ---
 
