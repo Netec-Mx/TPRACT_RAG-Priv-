@@ -30,7 +30,7 @@ El laboratorio utiliza **Python 3.11/3.12**, **Visual Studio Code**, **Jupyter**
 
 ## Conozca el expediente
 
-El [listado de documentos del expediente](https://netec-mx.github.io/TPRACT_RAG-Priv-/#documentos-del-expediente) contiene ocho documentos con vistas de lectura en GitHub Pages. Cada archivo conserva código, versión y apartados citables.
+El listado de documentos del expediente contiene ocho documentos con vistas de lectura en GitHub Pages. Cada archivo conserva código, versión y apartados citables.
 
 | Documento | ¿Qué información aporta al análisis? |
 |---|---|
