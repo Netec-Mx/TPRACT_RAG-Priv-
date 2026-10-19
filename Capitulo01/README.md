@@ -1,4 +1,6 @@
-# Auditoría de consistencia y trazabilidad documental mediante RAG
+# Práctica 1:  Construcción de un auditor RAG para detectar inconsistencias entre documentos
+
+----
 
 **Capítulo 1 · Práctica guiada: 105 minutos · Módulos 4 y 5 de Coursera**
 
