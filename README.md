@@ -19,32 +19,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - **Descripción**: Audita ocho documentos mediante siete casos de revisión. Recupera fragmentos con BM25 y LSA, compara requisitos y versiones, prepara prompts fundamentados para contrastarlos en Copilot Chat Básico y verifica afirmaciones y citas. Finalmente, evalúa cobertura, latencia y seguridad, y elabora un dictamen de auditoría trazable para revisión humana.
 - ⏱️ **Duración estimada**: 105 min (1 hora y 45 minutos).
 
----
-
-### 📁 **Materiales**: 
-
-### Archivos de trabajo y apoyo
-
-##### [01_auditoria_rag_produccion.ipynb](Capitulo01/materiales/vistas/01_auditoria_rag_produccion.ipynb.html)
-##### [anexo_parametros_sesion.csv](Capitulo01/materiales/vistas/anexo_parametros_sesion.csv.html)
-##### [casos_auditoria.csv](Capitulo01/materiales/vistas/casos_auditoria.csv.html)
-##### [catalogo_documental.csv](Capitulo01/materiales/vistas/catalogo_documental.csv.html)
-##### [manifiesto_materiales.json](Capitulo01/materiales/vistas/manifiesto_materiales.json.html)
-##### [motor_rag.py](Capitulo01/materiales/vistas/motor_rag.py.html)
-##### [plan_consultas.csv](Capitulo01/materiales/vistas/plan_consultas.csv.html)
-##### [requirements.txt](Capitulo01/materiales/vistas/requirements.txt.html)
-##### [respuestas_de_contraste.jsonl](Capitulo01/materiales/vistas/respuestas_de_contraste.jsonl.html)
-
-### Documentos del expediente
-
-##### [EST-SEG-009_v2.1.md](Capitulo01/materiales/vistas/EST-SEG-009_v2.1.md.html)
-##### [GUI-INC-004_v1.8.md](Capitulo01/materiales/vistas/GUI-INC-004_v1.8.md.html)
-##### [GUI-INC-004_v2.0.md](Capitulo01/materiales/vistas/GUI-INC-004_v2.0.md.html)
-##### [MAN-OPS-011_v2.3.md](Capitulo01/materiales/vistas/MAN-OPS-011_v2.3.md.html)
-##### [NOT-OPS-018_v1.1.md](Capitulo01/materiales/vistas/NOT-OPS-018_v1.1.md.html)
-##### [POL-SEG-014_v3.2.md](Capitulo01/materiales/vistas/POL-SEG-014_v3.2.md.html)
-##### [PRC-INC-005_v3.1.md](Capitulo01/materiales/vistas/PRC-INC-005_v3.1.md.html)
-##### [REG-EXC-006_v1.0.md](Capitulo01/materiales/vistas/REG-EXC-006_v1.0.md.html)
 
 ---
 
