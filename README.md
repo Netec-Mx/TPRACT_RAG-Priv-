@@ -25,7 +25,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### Archivos de trabajo y apoyo
 
-##### [01_auditoria_rag_produccion.ipynb](Capitulo01/materiales/01_auditoria_rag_produccion.ipynb)
+##### [01_auditoria_rag_produccion.ipynb](https://github.com/Netec-Mx/TPRACT_RAG-Priv-/blob/main/Capitulo01/materiales/01_auditoria_rag_produccion.ipynb)
 ##### [anexo_parametros_sesion.csv](Capitulo01/materiales/anexo_parametros_sesion.csv)
 ##### [casos_auditoria.csv](Capitulo01/materiales/casos_auditoria.csv)
 ##### [catalogo_documental.csv](Capitulo01/materiales/catalogo_documental.csv)
