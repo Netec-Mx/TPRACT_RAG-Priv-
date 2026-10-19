@@ -14,7 +14,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ## Capítulo 1
 
-### [Práctica 1: Auditoría de consistencia y trazabilidad documental mediante RAG](Capitulo01/README.md)
+### [Práctica 1:  Construcción de un auditor RAG para detectar inconsistencias entre documentos](Capitulo01/README.md)
 
 - **Descripción**: Audita ocho documentos mediante siete casos de revisión. Recupera fragmentos con BM25 y LSA, compara requisitos y versiones, prepara prompts fundamentados para contrastarlos en Copilot Chat Básico y verifica afirmaciones y citas. Finalmente, evalúa cobertura, latencia y seguridad, y elabora un dictamen de auditoría trazable para revisión humana.
 - ⏱️ **Duración estimada**: 105 min (1 hora y 45 minutos).
