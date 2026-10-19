@@ -18,9 +18,12 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 - **Descripción**: Audita ocho documentos mediante siete casos de revisión. Recupera fragmentos con BM25 y LSA, compara requisitos y versiones, prepara prompts fundamentados para contrastarlos en Copilot Chat Básico y verifica afirmaciones y citas. Finalmente, evalúa cobertura, latencia y seguridad, y elabora un dictamen de auditoría trazable para revisión humana.
 - ⏱️ **Duración estimada**: 105 min (1 hora y 45 minutos).
-- 📁 **Materiales**: [Abrir carpeta de materiales](Capitulo01/materiales/).
 
-#### Archivos de trabajo y apoyo
+---
+
+- 📁 **Materiales**: 
+
+## Archivos de trabajo y apoyo
 
 - [01_auditoria_rag_produccion.ipynb](Capitulo01/materiales/01_auditoria_rag_produccion.ipynb)
 - [anexo_parametros_sesion.csv](Capitulo01/materiales/anexo_parametros_sesion.csv)
@@ -32,9 +35,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - [requirements.txt](Capitulo01/materiales/requirements.txt)
 - [respuestas_de_contraste.jsonl](Capitulo01/materiales/respuestas_de_contraste.jsonl)
 
-#### Documentos del expediente
-
-[Carpeta documentos](Capitulo01/materiales/documentos/)
+## Documentos del expediente
 
 - [EST-SEG-009_v2.1.md](Capitulo01/materiales/documentos/EST-SEG-009_v2.1.md)
 - [GUI-INC-004_v1.8.md](Capitulo01/materiales/documentos/GUI-INC-004_v1.8.md)
