@@ -18,10 +18,10 @@ Aplicar y evaluar un flujo RAG de auditoría documental que recupere evidencia r
 
 ## Antes de comenzar
 
-Consulte la [Preparación del entorno](../preparacion_entorno.md). El laboratorio utiliza **Python 3.11/3.12**, **Visual Studio Code**, **Jupyter** y las bibliotecas incluidas en `requirements.txt`. Se utiliza **Microsoft 365 Copilot Chat Básico** para redactar y contrastar manualmente respuestas basadas en los fragmentos recuperados.
+El laboratorio utiliza **Python 3.11/3.12**, **Visual Studio Code**, **Jupyter** y las bibliotecas incluidas en `requirements.txt`. Se utiliza **Microsoft 365 Copilot Chat Básico** para redactar y contrastar manualmente respuestas basadas en los fragmentos recuperados.
 
 1. En VS Code abra **File > Open Folder** y seleccione `Capitulo01/materiales`.
-2. Abra el notebook [`01_auditoria_rag_produccion.ipynb`](materiales/01_auditoria_rag_produccion.ipynb).
+2. Abra el notebook [01_auditoria_rag_produccion.ipynb](Capitulo01/materiales/vistas/01_auditoria_rag_produccion.ipynb.html).
 3. Seleccione el kernel Python del curso.
 4. Ejecute las celdas en orden con **Shift+Enter**. Modifique los parámetros identificados con **MODIFIQUE AQUÍ** y complete las interpretaciones dentro del notebook.
 5. Guarde su trabajo con **Ctrl+S**.
@@ -30,7 +30,7 @@ Consulte la [Preparación del entorno](../preparacion_entorno.md). El laboratori
 
 ## Conozca el expediente
 
-La carpeta [`materiales/documentos/`](materiales/documentos/) contiene ocho documentos. Cada archivo conserva código, versión y apartados citables.
+La carpeta [`materiales/documentos/`]([materiales/documentos/](https://netec-mx.github.io/TPRACT_RAG-Priv-/)) contiene ocho documentos. Cada archivo conserva código, versión y apartados citables.
 
 | Documento | ¿Qué información aporta al análisis? |
 |---|---|
